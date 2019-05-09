@@ -1,2 +1,1 @@
-# docker-nginx-lua-miscmodule
-Dockerfile
+# docker-nginx-miscmodule
